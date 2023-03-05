@@ -54,7 +54,7 @@
 
 // Console.Write("Imput number: ");
 // int num = Convert.ToInt32(Console.ReadLine());
- 
+
 // if(num % 2 == 0)
 //     Console.WriteLine("This number  is even");
 // else
@@ -66,19 +66,17 @@
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
 
- Console.WriteLine("Imput number N");
- int n = Convert.ToInt32(Console.ReadLine());
- int num = 2;
- while(num <= n)
- {
-     
- 
- if(num % 2 == 0)
+// Console.WriteLine("Imput number N");
+// int n = Convert.ToInt32(Console.ReadLine());
+// int num = 2;
+// while (num <= n)
+// {
+//     if (num % 2 == 0)
 
- Console.Write(num + " ");
- num += 2;
+//         Console.Write(num + " ");
+//     num += 2;
+// }
 
- }
 
 // Console.Clear();
 // Console.Write("Imput number N: ");
